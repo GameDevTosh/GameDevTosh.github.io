@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
-![color](rgb(215, 227, 230))
+<html>
+<body style="background-color:powderblue;">
 
 * [HOME](./)
 
@@ -7,3 +8,6 @@
 * [MonMae Tutorials](./monmae/monmaevideos)
 * [About](./about/index)
 * [Contact](./contact/index)
+
+</body>
+</html>
