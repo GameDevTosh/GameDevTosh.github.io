@@ -1,6 +1,8 @@
-<!-- docs/_sidebar.md -->
 <html>
 <body style="background-color:powderblue;">
+</body>
+</html>
+<!-- docs/_sidebar.md -->
 
 * [HOME](./)
 
@@ -9,5 +11,4 @@
 * [About](./about/index)
 * [Contact](./contact/index)
 
-</body>
-</html>
+
