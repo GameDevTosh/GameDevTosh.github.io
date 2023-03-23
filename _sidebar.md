@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-
+![color](rgb(215, 227, 230))
 
 * [HOME](./)
 
