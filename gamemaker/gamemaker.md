@@ -1,3 +1,3 @@
 Tutorials
 
-- [Hello World](./gamemaker/tutorials/helloworld)
+- [Hello World](./gamemaker/tutorials/helloworld/helloworld)
