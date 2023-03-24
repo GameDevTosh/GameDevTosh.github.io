@@ -8,10 +8,17 @@ This built-in function allows us to display messages in the console, which is ve
 
 ## Instructions
 The very first thing we want to do is to create a new object in the asset browser.
+
+
 ![Object](./create_object.png)
 
+
 Then add a create event to the new object.
+
+
 ![Create](./add_create.png)
+
+
 
 Usually the first thing most people do when learning a new language is to learn how to output "Hello World", and this is what we'll be aiming to do here. So in the create event of the object, simply write:
 
