@@ -1,4 +1,4 @@
-## MonMae
+MonMae Tutorials
 - [MonMae Setup Tutorial](https://youtu.be/_ak5kXWZha4)
 - [Drawing Maps Tutorial](https://youtu.be/usGP05ANFTs)
 - [Collisions Tutorial](https://youtu.be/2BP9mAsqez8)
