@@ -25,7 +25,16 @@ Usually the first thing most people do when learning a new language is to learn 
 ```gml
 show_debug_message("Hello World!");
 ```
+This is how it should look like:
+
+
+![Show](./show_debug.png)
+
 
 If you then place the object in the room, and run the project, the console will show ""Hello World!" after compiling. 
 
-Congratulations, you have just written your first bit of functional code in Gamemaker!
+
+![Create](./hello_world.png)
+
+
+Congratulations! You have just written your first bit of functional code in Gamemaker!
