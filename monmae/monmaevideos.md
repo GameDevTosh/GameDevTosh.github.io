@@ -11,3 +11,5 @@ MonMae Tutorials
 - [Github Tutorial](https://youtu.be/nb-QG9XYl-Y)
 - [GXC Tutorial](https://youtu.be/TPjKmW_MeVU)
 - [Custom Trainers and Custom Size Tutorial](https://youtu.be/RV8tpdqWy3o)
+
+MonMae Written Tutorials
